@@ -1,0 +1,1 @@
+let evenN n = if n = 0 then [] else [1..2..n];;

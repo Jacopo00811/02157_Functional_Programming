@@ -1,0 +1,1 @@
+let f n = if (n%2=0 || n%3=0) && n%5<>0 then true else false;; 

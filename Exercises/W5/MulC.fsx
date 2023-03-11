@@ -1,0 +1,1 @@
+let rec MulC k xs = List.map (fun x -> k*x) xs

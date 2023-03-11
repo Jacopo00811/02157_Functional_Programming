@@ -1,0 +1,1 @@
+let Contains2 x xs = List.contains x xs;;

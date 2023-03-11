@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7u8OhucH+MX7jhxmiNwC5x1+i6E9y4iInhYflSQYNMLUZXkgQOwyeg9GwKynZARZACujjFsHUet07VJUeY1IOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mire\\Documents\\MRH data\\Kurser\\02157-22\\TestProject\\LuggageExample\\LuggageWithFlights\\src\\Library\\Library.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mire\\.nuget\\packages\\fsharp.core\\6.0.5\\fsharp.core.6.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}

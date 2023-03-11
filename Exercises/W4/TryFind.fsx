@@ -1,0 +1,1 @@
+List.tryFind (fun x -> x>3) [1;5;-2;8];;

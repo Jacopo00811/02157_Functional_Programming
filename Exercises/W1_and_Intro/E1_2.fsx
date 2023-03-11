@@ -1,0 +1,1 @@
+let h = fun (x:float,y:float) -> System.Math.Sqrt(x**2+y**2);;
